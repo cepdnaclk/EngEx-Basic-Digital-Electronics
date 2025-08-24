@@ -24,8 +24,8 @@ title: EngEx Digital Components - 75th Anniversary Project
 -  E/20/385, D.H Sriyarathna, [e20385@eng.pdn.ac.lk](mailto:e20385@eng.pdn.ac.lk)
 -  E/22/052, K.H.D.M. Bimsara, [e22052@eng.pdn.ac.lk](mailto:e22052@eng.pdn.ac.lk)
 -  E/22/151, M.I.M. Imaadh, [e22151@eng.pdn.ac.lk](mailto:e22151@eng.pdn.ac.lk)
+-  E/22/237, M. F. M. Minhaj Ali, [e22237@eng.pdn.ac.lk](mailto:e22237@eng.pdn.ac.lk)
 -  E/22/419, R.G.S.T. Weerasekara, [e22419@eng.pdn.ac.lk](mailto:e22419@eng.pdn.ac.lk)
--  E/22/
 -  E/23/035, P.I.N. Bandara, [e23035@eng.pdn.ac.lk](mailto:e23035@eng.pdn.ac.lk)
 -  E/23/104, G.M.P. Gamage, [e23104@eng.pdn.ac.lk](mailto:e23104@eng.pdn.ac.lk)
 -  E/23/, D.H Sriyarathna, [email](mailto:e20385@eng.pdn.ac.lk)
