@@ -3,13 +3,14 @@
 ### Digital Design Learning Platform for Engineering Excellence
 
 <div align="center">
-  <img width="310" height="162" alt="EngEx 2025 - 75th Anniversary" src="https://github.com/user-attachments/assets/2cbfb918-c330-4ba4-96f6-e0b48a1b6ac8" />
+  <img width="270" height="130" alt="EngEx 2025 - 75th Anniversary" src="https://github.com/user-attachments/assets/751098ca-e8ce-4cb8-86b4-e9e0020cbfdd" />
   <br>
   <h3>🎉 Celebrating 75 Years of Engineering Excellence 🎉</h3>
   <p><em>Faculty of Engineering, University of Peradeniya</em></p>
 </div>
 
 ---
+
 
 ## Project Overview
 
